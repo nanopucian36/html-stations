@@ -1,5 +1,5 @@
 /* スマホ */
-@media only screen and (min-width:320px) {
+@media only screen and (max-width:320px) {
   body {
     background-color: #C4C4C4;
     /*padding-top: 90px;*/
@@ -64,7 +64,7 @@
 }
 
 /* タブレット */
-@media only screen and (min-width:768px) {
+@media only screen and (max-width:768px) {
   body {
     background-color: #C4C4C4;
     /*padding-top: 90px;*/
@@ -127,7 +127,7 @@
 }
 
 /* PC */
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1200px) {
   body {
     background-color: #C4C4C4;
     /*padding-top: 90px;*/
